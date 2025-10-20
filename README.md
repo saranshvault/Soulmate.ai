@@ -35,4 +35,4 @@ Talk to your personal AI astrologer for guidance, reassurance, and intuitive lif
 
 ---
 
-#❤️ Made with love (and stardust) by Saransh Chaudhary
+# ❤️ Made with love (and stardust) by Saransh Chaudhary
