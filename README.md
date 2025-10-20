@@ -6,6 +6,8 @@
 It’s a perfect blend of **ancient astrology × modern AI** — turning your birth chart into emotional, relatable, and viral insights.
 
 ---
+[Visit SoulmateAI](https://soulmateai-astro.replit.app/)
+
 
 ## 🌌 ✨ Features
 
